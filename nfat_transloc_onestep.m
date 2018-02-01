@@ -1,6 +1,6 @@
 function soln = nfat_transloc_onestep(tspan)
 % modify 08/11/16
-% Based on Salazar 2008 paper, use the two step model
+% Based on Salazar 2008 paper, use the one step model
 
 global alpha_x
 global beta_x
